@@ -1,0 +1,6 @@
+print(" BANGUN DATAR ~~")
+print(f"Luas Persegi adalah ")
+print(f"Luas Persegi Panjang adalah ")
+print(f"Luas Segitiga adalah ")
+print(f"Luas Lingkaran adalah ")
+print(f"Luas JajarGanjar adalah ")
